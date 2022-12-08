@@ -1,4 +1,4 @@
-package com.example.javadesignpatterns.example._01_Iterator.samples;
+package com.example.javadesignpatterns.example._01_Iterator.sample;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
